@@ -78,9 +78,9 @@ body {
 }
 
 .ml15 {
-    margin-top: -150px; /* Pastikan tidak ada margin tambahan di atas teks */
+    margin-top: -250px; /* Pastikan tidak ada margin tambahan di atas teks */
     font-weight: 800;
-    font-size: 3.2em;
+    font-size: 4em;
 }
 
 .ml15 .word {
@@ -89,10 +89,10 @@ body {
 }
 
 .ml16 {
-    margin-top: -220px; /* Pastikan tidak ada margin tambahan di atas teks */
+    margin-top: -250px; /* Pastikan tidak ada margin tambahan di atas teks */
     padding: 40px 0;
     font-weight: 800;
-    font-size: 2.7em;
+    font-size: 4em;
     overflow: hidden;
 }
 
@@ -102,8 +102,8 @@ body {
 
 .ml11 {
     font-weight: 700;
-    font-size: 2.5em;
-    margin-top: -180px; /* Pastikan tidak ada margin tambahan di atas teks */
+    font-size: 4em;
+    margin-top: -220px; /* Pastikan tidak ada margin tambahan di atas teks */
 }
 
 .ml11 .text-wrapper {
@@ -136,8 +136,8 @@ body {
 .ml9 {
     position: relative;
     font-weight: 800;
-    font-size: 2.8em;
-    margin-top: -140px; /* Pastikan tidak ada margin tambahan di atas teks */
+    font-size: 5em;
+    margin-top: -200px; /* Pastikan tidak ada margin tambahan di atas teks */
     white-space: pre-line;
 }
 
@@ -157,8 +157,8 @@ body {
 
 .ml2 {
     font-weight: 900;
-    font-size: 2.8em;
-    margin-top: -30px; /* Pastikan tidak ada margin tambahan di atas teks */
+    font-size: 5em;
+    margin-top: -110px; /* Pastikan tidak ada margin tambahan di atas teks */
     white-space: pre-line;
 }
 
@@ -169,7 +169,7 @@ body {
 .ml4 {
     position: relative;
     font-weight: 900;
-    font-size: 3.2em;
+    font-size: 5em;
 }
 
 .ml4 .letters {
@@ -183,7 +183,7 @@ body {
 
 .ml12 {
     font-weight: 200;
-    font-size: 3em;
+    font-size: 5em;
     font-weight: bold;
 }
 
@@ -193,7 +193,7 @@ body {
 
 .ml14 {
     font-weight: bold;
-    font-size: 3em;
+    font-size: 5em;
 }
 
 .ml14 .text-wrapper {
@@ -222,7 +222,7 @@ body {
 .ml7 {
     position: relative;
     font-weight: 900;
-    font-size: 3em;
+    font-size: 5em;
 }
 
 .ml7 .text-wrapper {
@@ -240,7 +240,7 @@ body {
 }
 
 .ml13 {
-    font-size: 3em;
+    font-size: 5em;
     text-transform: uppercase;
     font-weight: bold;
     margin-top: -60px; /* Pastikan tidak ada margin tambahan di atas teks */
@@ -251,12 +251,12 @@ body {
 }
 
 #gambar {
-    width: 350px;
+    width: 900px;
     height: auto; /* Menjaga aspek rasio */
     position: relative;
     border-radius: 14px;
     border: 2px solid #f5f5f5;
-    top: -100px; /* Geser gambar ke atas, ubah angka sesuai kebutuhan */
+    top: -180px; /* Geser gambar ke atas, ubah angka sesuai kebutuhan */
 }
 
 
@@ -290,33 +290,33 @@ body {
 }
 
 .gambar-valentine {
-    width: 500px; /* Sesuaikan ukuran gambar */
+    width: 1000px; /* Sesuaikan ukuran gambar */
     height: auto; /* Menjaga aspek rasio */
     border-radius: 14px;
     border: 2px solid #f5f5f5;
     display: block;
     margin: 0 auto 5px auto; /* Membuat gambar berada di tengah dan memberi jarak bawah */
     position: relative;
-    top: -170px; /* Geser gambar ke atas, ubah angka sesuai kebutuhan */
+    top: -290px; /* Geser gambar ke atas, ubah angka sesuai kebutuhan */
 }
 
 .gambar-valentine-2{
-    width: 380px; /* Sesuaikan ukuran gambar */
+    width: 1000px; /* Sesuaikan ukuran gambar */
     height: auto; /* Menjaga aspek rasio */
     border-radius: 14px;
     border: 2px solid #f5f5f5;
     display: block;
     margin: 0 auto 5px auto; /* Membuat gambar berada di tengah dan memberi jarak bawah */
     position: relative;
-    top: -200px;
+    top: -350px;
 }
 
 .gambar-valentine-3 {
-    width: 450px; /* Sesuaikan ukuran gambar */
+    width: 1000px; /* Sesuaikan ukuran gambar */
     border-radius: 14px;
     border: 2px solid #f5f5f5;
     margin: 0 auto 5px auto; /* Membuat gambar berada di tengah dan memberi jarak bawah */
     position: relative;
-    top: -200px;
+    top: -350px;
 }
 
